@@ -1,6 +1,8 @@
 
 ## 🔍 1️⃣ AP Schools Data Report  
 
+<img src="screenshot/demo.gif" alt="Zomato Power BI Dashboard" style="width:100%;"/>
+
 📌 **Description**:  
 This report provides an in-depth analysis of **Andhra Pradesh (AP) schools' data**, covering key aspects such as student enrollment, teacher distribution, school infrastructure, and academic performance.  
 
